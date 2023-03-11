@@ -1,3 +1,5 @@
+/* https://github.com/Duxcoder */
+
 html {
     font-size: 0.9em;
 }
@@ -114,7 +116,7 @@ body {
 }
 
 .cssBayan__item:nth-child(4) .cssBayan__meme {
-    background-image: url('assets/meme/4.jpg');
+    background-image: url('assets/meme/4.jpeg');
 }
 
 @media (hover: none){
